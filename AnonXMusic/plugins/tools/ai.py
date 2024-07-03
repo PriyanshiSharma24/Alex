@@ -5,7 +5,6 @@ import os
 from pyrogram import filters, types as t
 from lexica import AsyncClient
 from AnonXMusic import app
-from lexica.constants import languageModels
 
 
 async def chat_completion(prompt, model) -> tuple | str:
