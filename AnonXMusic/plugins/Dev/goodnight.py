@@ -12,7 +12,7 @@ from AnonXMusic import app
 @app.on_message(filters.command("goodnight", prefixes="g"))
 def goodnight_command_handler(client: Client, message: Message):
     # Randomly decide whether to send a sticker or an emoji
-    send_sticker = random.choice([True, False])
+    send_sticker = random.choice([True])
     
     # Send a sticker or an emoji based on the random choice
     if send_sticker:
