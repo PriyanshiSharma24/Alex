@@ -9,7 +9,7 @@ from AnonXMusic import app
 @app.on_message(filters.command("py"))
 async def execute_python_code(client, message: Message):
     if len(message.command) < 2:
-        await message.reply(" enter your Python code after the command. Example: /python print('Hello, World!')")
+        await message.reply(" enter your Python code after the command. Example: /py print('Hello, World!')")
         return
 
     python_code = " ".join(message.command[1:])
@@ -17,7 +17,7 @@ async def execute_python_code(client, message: Message):
     try:
         # Execute the Python code
         exec_result = exec(python_code)
-        await message.reply(f"Code executed successfully. Made by [Dev](https://t.me/btw_devX)\n\n Result: {exec_result}")
+        await message.reply(f"Code executed successfully. Made by Dev Result: {exec_result}")
     except Exception as e:
         # Handle code execution errors
         traceback_str = traceback.format_exc()
