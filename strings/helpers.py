@@ -82,6 +82,7 @@ HELP_8 = """
 
 HELP_9 = """
 <u><b>ᴀꜰᴋ ᴍᴏᴅᴇ</b></u>  : Afk (offline) 
+/afk or /bye or /tata : offline notice 
 """
 
 HELP_10 = """
@@ -141,6 +142,9 @@ HELP_20 = """
 /genpw ➠ ᴛᴏ ɢᴇɴʀᴀᴛᴇ sᴛʀᴏɴɢ  ᴘᴀssᴡᴏʀᴅ.
 /write ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴡʀɪᴛᴇ ɪɴ ɴᴏᴛᴇʙᴏᴏᴋ.
 /qr ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴛᴏ ɢᴇᴛ ǫʀ ᴄᴏᴅᴇ ᴏғ ᴛᴇxᴛ.
-/py or /python : write a code in python 
+/py  : write a code in python 
 /gn or /goodnight : Good night 
+/google : search on google
+/truth or /dare : play a game 
+
 """
