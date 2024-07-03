@@ -141,10 +141,9 @@ HELP_20 = """
 /ip ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ɪᴘ ᴀᴅᴅʀᴇss ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ɪɴғᴏ ᴏғ ᴛʜᴀᴛ ɪᴘ.
 /genpw ➠ ᴛᴏ ɢᴇɴʀᴀᴛᴇ sᴛʀᴏɴɢ  ᴘᴀssᴡᴏʀᴅ.
 /write ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴡʀɪᴛᴇ ɪɴ ɴᴏᴛᴇʙᴏᴏᴋ.
-/qr ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴛᴏ ɢᴇᴛ ǫʀ ᴄᴏᴅᴇ ᴏғ ᴛᴇxᴛ.
 /py  : write a code in python 
 /gn or /goodnight : Good night 
 /google : search on google
 /truth or /dare : play a game 
-
+/wish or /cute : wish and check your cuteness 
 """
