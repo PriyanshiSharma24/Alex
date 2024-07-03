@@ -3,7 +3,6 @@ import base64
 import mimetypes
 import os
 from pyrogram import filters, types as t
-from lexica import AsyncClient
 from AnonXMusic import app
 
 
