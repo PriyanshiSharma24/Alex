@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "23723211",
+        "value": "24960183",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "c516af11a5f1c177fc03a747034c65a4",
+        "value": "0e2d0364c5b460ab2c7ba477a40595de",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "7262090629:AAFJ5ylV_dH9WkIE_RR-GZF_gCFyduQxWQE",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -34,17 +34,17 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "7019742407",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "BQFp_MsAEUyZpg2fCxVWid4OifJox_lNP_AsaSD-bFHl7wR3fRXQJapI-1naRYoie9xmVNZmQXL9V7o_k3XR44saw_2_At_8x9MASubs1Xwt0ecY8KFgvdx9Cf8gKVaCsV3UOK8nf1PAMUpzAS1Ig75trODz4X32wclo5IwxpFI1-9mCa2abGq7hEBtmC9pd_MFd81HOcYIRzsmalwKkH68lNAYoXyusfRAPSCT3vLRrQEvXHRDKyGhRWW0U1AKEdrIhIaYavMUkEHIEouTK3IePf_sEmBjZv3z_0a9mMN-l5SzCWLvQ23Y6_w7cNLW0xCk7Nt_xUpYsojJjuoHDLh7TyhF9WQAAAAGeFhiiAA",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "HRKU-0850f820-1fe0-47c2-b182-0b7ccb5459e0",
+        "value": "",
         "required": false
       },
       "HEROKU_APP_NAME": {
