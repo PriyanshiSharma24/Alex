@@ -8,14 +8,14 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.enums import *
 
 #BOT FILE NAME
-from DAXXMUSIC import app as app
-from DAXXMUSIC.mongo.couples_db import _get_image, get_couple
+from AnonXMusic import app as app
+from AnonXMusic.Mongo.couples_db import _get_image, get_couple
 
 POLICE = [
     [
         InlineKeyboardButton(
-            text="𓊈𒆜彡[𝐃𝚊𝚡𝚡 𝐂𝙲 𝐂𝙻𝚄𝙱 ]彡𒆜𓊉",
-            url=f"https://t.me/ALLTYPECC",
+            text="𝐓𝟎𝐗𝐈𝐂_𝐒𝐐𝐔𝐀𝐃 <//>3 🇮🇳",
+            url=f"https://t.me/T0XIC_SQUAD",
         ),
     ],
 ]
@@ -72,16 +72,16 @@ async def ctest(_, message):
          try:
             p1 = await app.download_media(photo1.big_file_id, file_name="pfp.png")
          except Exception:
-            p1 = "DAXXMUSIC/assets/upic.png"
+            p1 = "AnonXMusic/assets/upic.png"
          try:
             p2 = await app.download_media(photo2.big_file_id, file_name="pfp1.png")
          except Exception:
-            p2 = "DAXXMUSIC/assets/upic.png"
+            p2 = "AnonXMusic/assets/upic.png"
             
          img1 = Image.open(f"{p1}")
          img2 = Image.open(f"{p2}")
 
-         img = Image.open("DAXXMUSIC/assets/cppic.png")
+         img = Image.open("AnonXMusic/assets/cppic.png")
 
          img1 = img1.resize((437,437))
          img2 = img2.resize((437,437))
@@ -106,11 +106,11 @@ async def ctest(_, message):
          img.save(f'test_{cid}.png')
     
          TXT = f"""
-**ᴛᴏᴅᴀʏ's ᴄᴏᴜᴘʟᴇ ᴏғ ᴛʜᴇ ᴅᴀʏ :
+ᴛᴏᴅᴀʏ's ᴄᴏᴜᴘʟᴇ ᴏғ ᴛʜᴇ ᴅᴀʏ :
 
-{N1} + {N2} = 💚
+{N1} + {N2} = ❤️
 
-ɴᴇxᴛ ᴄᴏᴜᴘʟᴇs ᴡɪʟʟ ʙᴇ sᴇʟᴇᴄᴛᴇᴅ ᴏɴ {tomorrow} !!**
+ɴᴇxᴛ ᴄᴏᴜᴘʟᴇs ᴡɪʟʟ ʙᴇ sᴇʟᴇᴄᴛᴇᴅ ᴏɴ {tomorrow} !!
 """
     
          await message.reply_photo(f"test_{cid}.png", caption=TXT, reply_markup=InlineKeyboardMarkup(POLICE),
@@ -152,7 +152,7 @@ async def ctest(_, message):
 
 __mod__ = "COUPLES"
 __help__ = """
-**» /couples** - Get Todays Couples Of The Group In Interactive View
+» /couples - Get Todays Couples Of The Group In Interactive View
 """
 
 
