@@ -44,7 +44,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "HRKU-e167c3d7-01e0-436c-ac39-7a08e0811c07",
         "required": false
       },
       "HEROKU_APP_NAME": {
