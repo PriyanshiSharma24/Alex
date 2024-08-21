@@ -30,7 +30,7 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_6"], url="https://t.me/AIEXA_SUPPORT"),
+            InlineKeyboardButton(text=_["S_B_6"], url="https://t.me/aIexa_updates"),
         ],
     ]
     return buttons
