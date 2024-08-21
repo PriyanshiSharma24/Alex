@@ -24,7 +24,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", None))
 # Get this value from @FallenxBot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", 1356469075))
 
-BOT_USERNAME = ""
+BOT_USERNAME = "AIexa_Music_Bot"
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
@@ -40,7 +40,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/T0XIC_SQUAD")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/aIexa_updates")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AIEXA_SUPPORT")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
