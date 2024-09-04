@@ -85,8 +85,9 @@ async def start_pm(client, message: Message, _):
                 )
     else:
         out = private_panel(_)
+        await message.reply_text("Jᴏɪɴ ~ @Do_lafz1 💗")
         await message.reply_video(
-            video=f"https://telegra.ph/file/05b6887a67e805e1087c5.mp4",
+            video=f"https://telegra.ph/file/3d1afd023d2f4e176240c.mp4",
             caption=_["start_2"].format(message.from_user.mention, app.mention),
             reply_markup=InlineKeyboardMarkup(out),
         )
@@ -103,7 +104,7 @@ async def start_gp(client, message: Message, _):
     out = start_panel(_)
     uptime = int(time.time() - _boot_)
     await message.reply_video(
-        video=f"https://telegra.ph/file/62bfd3c4ce30b771a2bd3.mp4",
+        video=f"https://telegra.ph/file/3d1afd023d2f4e176240c.mp4",
         caption=_["start_1"].format(app.mention, get_readable_time(uptime)),
         reply_markup=InlineKeyboardMarkup(out),
     )
