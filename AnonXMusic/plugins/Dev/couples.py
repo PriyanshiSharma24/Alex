@@ -13,8 +13,8 @@ from AnonXMusic.Mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="𝐓𝟎𝐗𝐈𝐂_𝐒𝐐𝐔𝐀𝐃 <//>3 🇮🇳",
-            url=f"https://t.me/T0XIC_SQUAD",
+            text="𝖢𝗁𝖺𝗍𝗍𝗂𝗇𝗀 𝖦𝖼",
+            url=f"https://t.me/FuIl_masti_with_friends",
         ),
     ],
 ]
