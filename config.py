@@ -24,7 +24,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", None))
 # Get this value from @FallenxBot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", 1356469075))
 
-BOT_USERNAME = "AIexa_Music_Bot"
+BOT_USERNAME = ""
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
@@ -40,8 +40,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/aIexa_updates")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AIEXA_SUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/neprosz")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/FuIl_masti_with_friends")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -79,10 +79,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/c4232f434ba162ce003c4.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/0ba4970f43473cb1a075f.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/0e177428160237ec0537b.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/324a3a5191c8f7fcb6ffb.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
