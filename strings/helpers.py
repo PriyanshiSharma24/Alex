@@ -136,8 +136,5 @@ HELP_15 = """
 HELP_20 = """
 <b><u>Extra ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 /ip ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ɪᴘ ᴀᴅᴅʀᴇss ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ɢᴇᴛ ɪɴғᴏ ᴏғ ᴛʜᴀᴛ ɪᴘ.
-/genpw ➠ ᴛᴏ ɢᴇɴʀᴀᴛᴇ sᴛʀᴏɴɢ  ᴘᴀssᴡᴏʀᴅ.
-/write ➠ ᴇɴᴛᴇʀ ᴛʜᴇ ᴛᴇxᴛ ᴀғᴛᴇʀ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴡʀɪᴛᴇ ɪɴ ɴᴏᴛᴇʙᴏᴏᴋ.
-/truth or /dare : play a game 
 /wish or /cute : wish and check your cuteness 
 """
