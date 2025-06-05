@@ -29,7 +29,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/afkXuD/alexaX && cd alexaX
+   git clone https://github.com/afkXuD/alexaX1 && cd alexaX1
    ```
 6. **Install Requirements**
    ```bash
