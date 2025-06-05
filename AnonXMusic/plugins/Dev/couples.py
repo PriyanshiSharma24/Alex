@@ -14,7 +14,7 @@ POLICE = [
     [
         InlineKeyboardButton(
             text="𝖢𝗁𝖺𝗍𝗍𝗂𝗇𝗀 𝖦𝖼",
-            url=f"https://t.me/FuIl_masti_with_friends",
+            url=f"https://t.me/+arqQqg6QpU0wMmVl",
         ),
     ],
 ]
