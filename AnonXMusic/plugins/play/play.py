@@ -36,6 +36,11 @@ from config import BANNED_USERS, lyrical
             "vplayforce",
             "cplayforce",
             "cvplayforce",
+            "devxunnati",
+            "dev",
+            "unnati",
+            "afkd",
+            "ud",
         ]
     )
     & filters.group
