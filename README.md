@@ -29,7 +29,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/BtwDevX/alexa && cd alexa
+   git clone https://github.com/afkXuD/alexaXmusic && cd alexaXmusic
    ```
 6. **Install Requirements**
    ```bash
