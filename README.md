@@ -29,7 +29,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/afkXuD/afkalexa && cd afkalexa
+   git clone https://github.com/afkXuD/uD && cd uD
    ```
 6. **Install Requirements**
    ```bash
