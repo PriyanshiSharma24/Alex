@@ -6,7 +6,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BtwDevX/BtwMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/PriyanshiSharma24/Alexa"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
@@ -29,7 +29,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/afkXuD/uD && cd uD
+   git clone https://github.com/PriyanshiSharma24/Alexa && cd Alexa
    ```
 6. **Install Requirements**
    ```bash
