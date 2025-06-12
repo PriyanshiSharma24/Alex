@@ -66,7 +66,7 @@ HELP_6 = """
 HELP_7 = """
 <u><b>Cᴏᴜᴩʟᴇꜱ</b></u> :
 
-/couples - Get Todays Couples Of The Group In Interactive View
+/couples - Disabled by bot owner 
 """
 
 HELP_8 = """
