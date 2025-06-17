@@ -66,7 +66,7 @@ HELP_6 = """
 HELP_7 = """
 <u><b>Cᴏᴜᴩʟᴇꜱ</b></u> :
 
-/couples - Disabled by bot owner 
+Soon
 """
 
 HELP_8 = """
@@ -79,8 +79,8 @@ HELP_8 = """
 """
 
 HELP_9 = """
-<u><b>ᴀꜰᴋ ᴍᴏᴅᴇ</b></u>  : Afk (offline) 
-/afk or /bye or /tata : offline notice 
+<u><b>𝖵𝗉𝗌</b></u>  : 𝖵𝗉𝗌
+If you buy cheap price vps then contact: @QayamatxD
 """
 
 HELP_10 = """
